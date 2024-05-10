@@ -1,1 +1,1 @@
-print ("vou jogar para o repositério")
+print ("vou jogar para o repositório")
